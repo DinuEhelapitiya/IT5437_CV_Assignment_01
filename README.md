@@ -1,0 +1,14 @@
+# IT5437 - Computer Vision Assignment 1
+
+This repository contains the solutions for the IT5437 Computer Vision assignment. The project involves various image processing techniques such as intensity transformations, histogram equalization, and Sobel filtering.
+
+## How to run the notebooks
+1. Create a virtual environment: `py -3 -m venv .venv`.
+2. Install the required libraries: `pip install -r requirements.txt`.
+3. Open the Jupyter notebooks in the `notebooks/` folder and run them.
+
+## Folder structure
+- `notebooks/`: Contains Jupyter notebooks for each question.
+- `data/`: Contains images used in the assignment.
+- `report/`: Contains the final report (PDF).
+- `requirements.txt`: Lists the required libraries.
