@@ -1,6 +1,6 @@
 # IT5437 - Computer Vision Assignment 1
 
-This repository contains the solutions for the IT5437 Computer Vision assignment. The project involves various image processing techniques such as intensity transformations, histogram equalization, and Sobel filtering.
+This repository contains the solutions for the IT5437 Computer Vision assignment. The assignment is on Intensity Transformations and Neighborhood Filtering.
 
 ## How to run the notebooks
 1. Create a virtual environment: `py -3 -m venv .venv`.
