@@ -13,8 +13,6 @@ This repository contains the solutions for the IT5437 Computer Vision assignment
   - `a1images/`: Input images (e.g., Emma).
   - `a1q8images/`: images for Q7.
   - `output_images/`: All output images
-- `report/`: Contains the final report (PDF).
-- `src/`: Contains reusable code and functions (e.g., filters, transformations).
 - `requirements.txt`: Lists the required libraries.
 
 
